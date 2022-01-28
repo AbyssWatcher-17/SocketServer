@@ -33,8 +33,8 @@ SUB --> key1 value1 :Client can "Subscribe" to a key and when one of Other Clien
 (You're going to need at least 2 Client to test this function properly.To connect another client to server just open new terminal page and connect just like first client  ) 
 
 OP -->  you may learn:
-      1-  Who's using this Linux.By typing --> OP anything who
-      2-  Uptime .By typing                --> OP anything uptime
-      3-  Date. By typing                  --> OP anything date
+      1-  Who's using this Linux.By typing --> OP anything who <br>
+      2-  Uptime .By typing                --> OP anything uptime <br>
+      3-  Date. By typing                  --> OP anything date <br>
 
 QUIT --> End the server
